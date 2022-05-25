@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/3IL3-2021/Projet%20Appli-Realisation/LOCATION/src/location/payelocataire.java</file>
+            <file>file:/D:/3IL3-2021/Projet%20Appli-Realisation/LOCATION/src/location/residences.java</file>
+            <file>file:/D:/3IL3-2021/Projet%20Appli-Realisation/LOCATION/src/location/contratLocataireExistant.java</file>
+            <file>file:/D:/3IL3-2021/Projet%20Appli-Realisation/LOCATION/src/main/Main.java</file>
+            <file>file:/D:/3IL3-2021/Projet%20Appli-Realisation/LOCATION/src/model/ConnexionBD.java</file>
+            <file>file:/D:/3IL3-2021/Projet%20Appli-Realisation/LOCATION/src/location/tableaubayeur.java</file>
+            <file>file:/D:/3IL3-2021/Projet%20Appli-Realisation/LOCATION/src/location/factures.java</file>
+            <file>file:/D:/3IL3-2021/Projet%20Appli-Realisation/LOCATION/src/model/ModelLogin.java</file>
+            <file>file:/D:/3IL3-2021/Projet%20Appli-Realisation/LOCATION/src/auth/component/PanelLoading.java</file>
+            <file>file:/D:/3IL3-2021/Projet%20Appli-Realisation/LOCATION/src/model/Appartement.java</file>
+            <file>file:/D:/3IL3-2021/Projet%20Appli-Realisation/LOCATION/src/model/Bailleur.java</file>
+            <file>file:/D:/3IL3-2021/Projet%20Appli-Realisation/LOCATION/src/model/Locataire.java</file>
+            <file>file:/D:/3IL3-2021/Projet%20Appli-Realisation/LOCATION/src/swing/MenuButton.java</file>
+            <file>file:/D:/3IL3-2021/Projet%20Appli-Realisation/LOCATION/src/swing/MyPasswordField.java</file>
+            <file>file:/D:/3IL3-2021/Projet%20Appli-Realisation/LOCATION/src/location/bayeur/component/Menu.java</file>
+            <file>file:/D:/3IL3-2021/Projet%20Appli-Realisation/LOCATION/src/swing/ButtonOutLine.java</file>
+            <file>file:/D:/3IL3-2021/Projet%20Appli-Realisation/LOCATION/src/swing/Button.java</file>
+            <file>file:/D:/3IL3-2021/Projet%20Appli-Realisation/LOCATION/src/location/Location.java</file>
+            <file>file:/D:/3IL3-2021/Projet%20Appli-Realisation/LOCATION/src/auth/component/Message.java</file>
+            <file>file:/D:/3IL3-2021/Projet%20Appli-Realisation/LOCATION/src/auth/component/PanelVerifyCode.java</file>
+            <file>file:/D:/3IL3-2021/Projet%20Appli-Realisation/LOCATION/src/model/ModelMessage.java</file>
+            <file>file:/D:/3IL3-2021/Projet%20Appli-Realisation/LOCATION/src/location/locataire.java</file>
+            <file>file:/D:/3IL3-2021/Projet%20Appli-Realisation/LOCATION/src/auth/services/ServiceMail.java</file>
+            <file>file:/D:/3IL3-2021/Projet%20Appli-Realisation/LOCATION/src/auth/component/PanelCover.java</file>
+            <file>file:/D:/3IL3-2021/Projet%20Appli-Realisation/LOCATION/src/auth/component/PanelLoginAndRegister.java</file>
+            <file>file:/D:/3IL3-2021/Projet%20Appli-Realisation/LOCATION/src/splashscreen/SplashScreen.java</file>
+            <file>file:/D:/3IL3-2021/Projet%20Appli-Realisation/LOCATION/src/model/ModelUser.java</file>
+            <file>file:/D:/3IL3-2021/Projet%20Appli-Realisation/LOCATION/src/auth/services/ServiceUser.java</file>
+            <file>file:/D:/3IL3-2021/Projet%20Appli-Realisation/LOCATION/src/location/bayeur/main/DashboardBayeur.java</file>
+            <file>file:/D:/3IL3-2021/Projet%20Appli-Realisation/LOCATION/src/model/Caracteristique.java</file>
+            <file>file:/D:/3IL3-2021/Projet%20Appli-Realisation/LOCATION/src/model/Opt.java</file>
+            <file>file:/D:/3IL3-2021/Projet%20Appli-Realisation/LOCATION/src/auth/main/Main.java</file>
+            <file>file:/D:/3IL3-2021/Projet%20Appli-Realisation/LOCATION/src/model/Residence.java</file>
+            <file>file:/D:/3IL3-2021/Projet%20Appli-Realisation/LOCATION/src/location/opt.java</file>
+            <file>file:/D:/3IL3-2021/Projet%20Appli-Realisation/LOCATION/src/swing/PanelRound.java</file>
+            <file>file:/D:/3IL3-2021/Projet%20Appli-Realisation/LOCATION/src/location/saveAppart.java</file>
+            <file>file:/D:/3IL3-2021/Projet%20Appli-Realisation/LOCATION/src/auth/main/MainSystem.java</file>
+            <file>file:/D:/3IL3-2021/Projet%20Appli-Realisation/LOCATION/src/location/EnregistrementLocataireUI.java</file>
+            <file>file:/D:/3IL3-2021/Projet%20Appli-Realisation/LOCATION/src/location/voireappatement.java</file>
+            <file>file:/D:/3IL3-2021/Projet%20Appli-Realisation/LOCATION/src/location/ConnexionUI.java</file>
+            <file>file:/D:/3IL3-2021/Projet%20Appli-Realisation/LOCATION/src/swing/MyTextField.java</file>
+        </group>
+    </open-files>
+</project-private>
